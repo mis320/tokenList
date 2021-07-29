@@ -1,5 +1,5 @@
 {
-  "name": "ToothSWap List",
+  "name": "IMPLSWap List",
   "timestamp": "2021-05-17T20:00:00.889Z",
   "version": {
     "major": 1,
@@ -13,30 +13,7 @@
     "default"
   ],
   "tokens": [
-    {
-      "name": "ToothSwap Token",
-      "address": "0xEdB8d4EA4285aE6B99eDd4c49929bc3050588Fae",
-      "symbol": "TST",
-      "decimals": 18,
-      "chainId": 97,
-      "logoURI": "http://toothswap.dappbox.finance/coinlist/tst.png"
-    },
-    {
-      "name": "Dappbox Token",
-      "address": "0x4a0795da0044e083EA82207E6F8a75194A2f11D0",
-      "symbol": "DBT",
-      "decimals": 18,
-      "chainId": 97,
-      "logoURI": "http://toothswap.dappbox.finance/coinlist/dbt.png"
-    },
-    {
-      "name": "USDT",
-      "address": "0x289d44257A776edF7dAD62D8D8851838DA81c36B",
-      "symbol": "USDT",
-      "decimals": 18,
-      "chainId": 97,
-      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/assets/KTOTEST/0x289d44257A776edF7dAD62D8D8851838DA81c36B.png"
-    },
+  
     {
       "name": "USDT",
       "address": "0x289d44257A776edF7dAD62D8D8851838DA81c36B",
