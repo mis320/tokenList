@@ -31,14 +31,6 @@
       "logoURI": "https://toothswap.github.io/toothswap-tokenlist/assets/KTOTEST/0x3335AaBb77bCF592B682ffaBf9DD2184B70ea3cB.png"
     },
     {
-      "name": "WKTO",
-      "address": "0x3335AaBb77bCF592B682ffaBf9DD2184B70ea3cB",
-      "symbol": "KTO",
-      "decimals": 18,
-      "chainId": 8285,
-      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/assets/KTOTEST/0x3335AaBb77bCF592B682ffaBf9DD2184B70ea3cB.png"
-    },
-    {
       "name": "ETH",
       "address": "0xBaa0b76CfE469e67395BA7c9C301b9ae8C279537",
       "symbol": "ETH",
