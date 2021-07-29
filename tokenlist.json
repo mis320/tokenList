@@ -1,0 +1,113 @@
+{
+  "name": "ToothSWap List",
+  "timestamp": "2021-05-17T20:00:00.889Z",
+  "version": {
+    "major": 1,
+    "minor": 2,
+    "patch": 6
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmZgpZq1HkVS7YCThNJeR51KFVo5AL8P3ThA2y9wcw53p9",
+  "keywords": [
+    "ToothSWap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "ToothSwap Token",
+      "address": "0xEdB8d4EA4285aE6B99eDd4c49929bc3050588Fae",
+      "symbol": "TST",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "http://toothswap.dappbox.finance/coinlist/tst.png"
+    },
+    {
+      "name": "Dappbox Token",
+      "address": "0x4a0795da0044e083EA82207E6F8a75194A2f11D0",
+      "symbol": "DBT",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "http://toothswap.dappbox.finance/coinlist/dbt.png"
+    },
+    {
+      "name": "USDT",
+      "address": "0x289d44257A776edF7dAD62D8D8851838DA81c36B",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/assets/KTOTEST/0x289d44257A776edF7dAD62D8D8851838DA81c36B.png"
+    },
+    {
+      "name": "USDT",
+      "address": "0x289d44257A776edF7dAD62D8D8851838DA81c36B",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 8285,
+      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/assets/KTOTEST/0x289d44257A776edF7dAD62D8D8851838DA81c36B.png"
+    },
+    {
+      "name": "KTO",
+      "address": "0x3335AaBb77bCF592B682ffaBf9DD2184B70ea3cB",
+      "symbol": "KTO",
+      "decimals": 18,
+      "chainId": 8285,
+      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/assets/KTOTEST/0x3335AaBb77bCF592B682ffaBf9DD2184B70ea3cB.png"
+    },
+    {
+      "name": "WKTO",
+      "address": "0x3335AaBb77bCF592B682ffaBf9DD2184B70ea3cB",
+      "symbol": "KTO",
+      "decimals": 18,
+      "chainId": 8285,
+      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/assets/KTOTEST/0x3335AaBb77bCF592B682ffaBf9DD2184B70ea3cB.png"
+    },
+    {
+      "name": "ETH",
+      "address": "0xBaa0b76CfE469e67395BA7c9C301b9ae8C279537",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 8285,
+      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/assets/KTOTEST/0xBaa0b76CfE469e67395BA7c9C301b9ae8C279537.png"
+    },
+    {
+      "name": "USDK",
+      "address": "0x86B6F743b6D437b52Ebe1b94265132053d255136",
+      "symbol": "USDK",
+      "decimals": 18,
+      "chainId": 8285,
+      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/assets/KTOTEST/0x86B6F743b6D437b52Ebe1b94265132053d255136.png"
+    },
+    {
+      "name": "BTC",
+      "address": "0x28E44f86C25f58Bc8D8dD45bF0873CD4AE363e77",
+      "symbol": "BTC",
+      "decimals": 18,
+      "chainId": 8285,
+      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/assets/KTOTEST/0x28E44f86C25f58Bc8D8dD45bF0873CD4AE363e77.png"
+    },
+    {
+      "name": "DAI",
+      "address": "0x1AE948EB906fF65F44991Bdc6D35670246B8f964",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 8285,
+      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/assets/KTOTEST/0x1AE948EB906fF65F44991Bdc6D35670246B8f964.png"
+    },
+    {
+      "name": "UNI",
+      "address": "0x1464BCeb3c4d4Ed8607A0997016AE65EE92F714b",
+      "symbol": "UNI",
+      "decimals": 18,
+      "chainId": 8285,
+      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/assets/KTOTEST/0x1464BCeb3c4d4Ed8607A0997016AE65EE92F714b.png"
+    },
+    {
+      "name": "WKTO",
+      "address": "0xd18Acf4a3Fec17B660cA74B160dd417Ce2644f22",
+      "symbol": "WKTO",
+      "decimals": 18,
+      "chainId": 8285,
+      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/assets/KTOTEST/0xd18Acf4a3Fec17B660cA74B160dd417Ce2644f22.png"
+    }
+  ]
+}
