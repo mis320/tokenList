@@ -1,6 +1,6 @@
 {
   "name": "IMPLSWap List",
-  "timestamp": "2021-05-17T20:00:00.889Z",
+  "timestamp": 000000000",
   "version": {
     "major": 1,
     "minor": 2,
@@ -11,6 +11,15 @@
    
   ],
   "tokens": [
+    
+    {
+      "name": "IMPL",
+      "address": "0x427E182c5E77489A903cE37Fe724EC7Ce0FDCaa8",
+      "symbol": "IMPL",
+      "decimals": 18,
+      "chainId": 8285,
+      "logoURI": "https://mis320.github.io/tokenlist/assets/KTOTEST/0x427E182c5E77489A903cE37Fe724EC7Ce0FDCaa8.png"
+    },
   
     {
       "name": "USDT",
@@ -18,7 +27,7 @@
       "symbol": "USDT",
       "decimals": 18,
       "chainId": 8285,
-      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/assets/KTOTEST/0x289d44257A776edF7dAD62D8D8851838DA81c36B.png"
+      "logoURI": "https://mis320.github.io/tokenlist/assets/KTOTEST/0x289d44257A776edF7dAD62D8D8851838DA81c36B.png"
     },
     {
       "name": "KTO",
@@ -26,7 +35,7 @@
       "symbol": "KTO",
       "decimals": 18,
       "chainId": 8285,
-      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/assets/KTOTEST/0x3335AaBb77bCF592B682ffaBf9DD2184B70ea3cB.png"
+      "logoURI": "https://mis320.github.io/tokenlist/assets/KTOTEST/0x3335AaBb77bCF592B682ffaBf9DD2184B70ea3cB.png"
     },
     {
       "name": "ETH",
@@ -34,7 +43,7 @@
       "symbol": "ETH",
       "decimals": 18,
       "chainId": 8285,
-      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/assets/KTOTEST/0xBaa0b76CfE469e67395BA7c9C301b9ae8C279537.png"
+      "logoURI": "https://mis320.github.io/tokenlist/assets/KTOTEST/0xBaa0b76CfE469e67395BA7c9C301b9ae8C279537.png"
     },
     {
       "name": "USDK",
@@ -42,7 +51,7 @@
       "symbol": "USDK",
       "decimals": 18,
       "chainId": 8285,
-      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/assets/KTOTEST/0x86B6F743b6D437b52Ebe1b94265132053d255136.png"
+      "logoURI": "https://mis320.github.io/tokenlist/assets/KTOTEST/0x86B6F743b6D437b52Ebe1b94265132053d255136.png"
     },
     {
       "name": "BTC",
@@ -50,15 +59,16 @@
       "symbol": "BTC",
       "decimals": 18,
       "chainId": 8285,
-      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/assets/KTOTEST/0x28E44f86C25f58Bc8D8dD45bF0873CD4AE363e77.png"
+      "logoURI": "https://mis320.github.io/tokenlist/assets/KTOTEST/0x28E44f86C25f58Bc8D8dD45bF0873CD4AE363e77.png"
     },
+
     {
       "name": "DAI",
       "address": "0x1AE948EB906fF65F44991Bdc6D35670246B8f964",
       "symbol": "DAI",
       "decimals": 18,
       "chainId": 8285,
-      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/assets/KTOTEST/0x1AE948EB906fF65F44991Bdc6D35670246B8f964.png"
+      "logoURI": "https://mis320.github.io/tokenlist/assets/KTOTEST/0x1AE948EB906fF65F44991Bdc6D35670246B8f964.png"
     },
     {
       "name": "UNI",
@@ -66,7 +76,7 @@
       "symbol": "UNI",
       "decimals": 18,
       "chainId": 8285,
-      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/assets/KTOTEST/0x1464BCeb3c4d4Ed8607A0997016AE65EE92F714b.png"
+      "logoURI": "https://mis320.github.io/tokenlist/assets/KTOTEST/0x1464BCeb3c4d4Ed8607A0997016AE65EE92F714b.png"
     },
     {
       "name": "WKTO",
@@ -74,7 +84,7 @@
       "symbol": "WKTO",
       "decimals": 18,
       "chainId": 8285,
-      "logoURI": "https://toothswap.github.io/toothswap-tokenlist/assets/KTOTEST/0xd18Acf4a3Fec17B660cA74B160dd417Ce2644f22.png"
+      "logoURI": "https://mis320.github.io/tokenlist/assets/KTOTEST/0xd18Acf4a3Fec17B660cA74B160dd417Ce2644f22.png"
     }
   ]
 }
