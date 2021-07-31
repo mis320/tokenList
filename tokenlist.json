@@ -84,7 +84,7 @@
       "name": "WKTO",
       "address": "0xd18Acf4a3Fec17B660cA74B160dd417Ce2644f22",
       "symbol": "WKTO",
-      "decimals": 11,
+      "decimals": 18,
       "chainId": 8285,
       "logoURI": "https://mis320.github.io/tokenlist/assets/KTOTEST/0xd18Acf4a3Fec17B660cA74B160dd417Ce2644f22.png"
     }
