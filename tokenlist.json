@@ -23,6 +23,29 @@
       "chainId": 8285,
       "logoURI": "https://mis320.github.io/tokenlist/assets/KTOTEST/0x427E182c5E77489A903cE37Fe724EC7Ce0FDCaa8.png"
     },
+      {
+      "name": "IMPLC",
+      "address": "0xA40b974A95f14CdfC9098EFa8d0B419D2A0b90AC",
+      "symbol": "IMPL",
+      "decimals": 18,
+      "chainId": 8285,
+      "logoURI": "https://mis320.github.io/tokenlist/assets/KTOTEST/0xA40b974A95f14CdfC9098EFa8d0B419D2A0b90AC.png"
+    },
+      {
+      "name": "IMPLS",
+      "address": "0xf733B647C43eeC087CbDE1ee381B11b71e921a4D",
+      "symbol": "IMPL",
+      "decimals": 18,
+      "chainId": 8285,
+      "logoURI": "https://mis320.github.io/tokenlist/assets/KTOTEST/0xf733B647C43eeC087CbDE1ee381B11b71e921a4D.png"
+    },  {
+      "name": "IMPLB",
+      "address": "0xa6A067d242FfBd1B810cC0Ee6183cD564cD509c1",
+      "symbol": "IMPL",
+      "decimals": 18,
+      "chainId": 8285,
+      "logoURI": "https://mis320.github.io/tokenlist/assets/KTOTEST/0xa6A067d242FfBd1B810cC0Ee6183cD564cD509c1.png"
+    },
   
     {
       "name": "USDT",
